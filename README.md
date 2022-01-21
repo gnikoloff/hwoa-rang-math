@@ -1,3 +1,3 @@
-# hwoa-rang-anim
+# hwoa-rang-math
 
-The simplest tweening class, allowing to go from 0 to 1 with different easings and durations
+Math module for the hwoa-rang-gl/gl2/gpu rendering libraries
